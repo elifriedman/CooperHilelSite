@@ -1,2 +1,2 @@
-# CooperHilelSite
-Website for the Cooper Union Hillel (hillel.cooper.edu)
+# CooperHillelSite
+A new website for the [Cooper Union Hillel](http://hillel.cooper.edu/NewSite)
